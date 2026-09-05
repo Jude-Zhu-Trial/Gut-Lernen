@@ -27,7 +27,7 @@ jobs:
           command: >-
             cd firmware &&
             SDKCONFIG_DEFAULTS=sdkconfig.defaults idf.py build &&
-            idf.py merge-bin -o build/FoloToy-AI-Passport-full.bin
+            idf.py merge-bin -o FoloToy-AI-Passport-full.bin
 
       - name: Upload firmware artifact
         uses: actions/upload-artifact@043fb46d1a93c77aae656e7c1c64a875d1fc6a0a # v7
