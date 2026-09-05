@@ -8,7 +8,7 @@
 #include "freertos/task.h"
 
 #include "driver/usb_serial_jtag.h"
-#include "esp_lcd_panel.h"
+#include "esp_lcd_panel_interface.h"
 #include "esp_log.h"
 
 #include "bsp_display.h"
