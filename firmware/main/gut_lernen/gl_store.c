@@ -1,4 +1,5 @@
 #include "gl_store.h"
+#include "gl_data.h"
 
 #include "esp_log.h"
 #include "nvs.h"

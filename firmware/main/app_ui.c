@@ -105,7 +105,7 @@ static void set_view_message(void)
 
 void app_ui_init(struct _lv_display_t *disp)
 {
-    lv_obj_t *scr = lv_display_get_screen(disp);
+    lv_obj_t *scr = lv_display_get_screen_active(disp);
 
     s_head = lv_tiny_ttf_create_data(wqy_subset_ttf,
                                      (size_t)wqy_subset_ttf_len, 32);
