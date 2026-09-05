@@ -1,0 +1,1 @@
+{"cases":[{"id":1,"priority":"p0","description":"打开首页 /，页面完整渲染出应用导航与德语背单词界面（非白屏、非报错页），断言页面出现「Gut lernen」或德语学习相关文案"},{"id":2,"priority":"p0","description":"检查首页浏览器 console 无 Resource load failed / @runtime.js 加载失败类报错，页面主内容可见"}]}
