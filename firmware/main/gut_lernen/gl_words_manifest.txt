@@ -1,0 +1,3305 @@
+0	ein Uhr
+1	fünf Minuten vor/nach eins
+2	Viertel vor/nach zwei
+3	halb drei
+4	die Sekunde
+5	die Minute
+6	die Stunde
+7	der Tag
+8	die Woche
+9	das Jahr
+10	der Sonntag
+11	der Montag
+12	der Dienstag
+13	der Mittwoch
+14	der Donnerstag
+15	der Freitag
+16	der Samstag
+17	das Wochenende
+18	der Morgen
+19	der Vormittag
+20	der Mittag
+21	der Nachmittag
+22	der Abend
+23	die Nacht
+24	Januar
+25	Februar
+26	März
+27	April
+28	Mai
+29	Juni
+30	Juli
+31	August
+32	September
+33	Oktober
+34	November
+35	Dezember
+36	der Frühling
+37	der Sommer
+38	der Herbst
+39	der Winter
+40	grau
+41	blau
+42	grün
+43	weiß
+44	rot
+45	gelb
+46	braun
+47	der Norden
+48	der Süden
+49	der Westen
+50	der Osten
+51	ab
+52	aber
+53	abfahren
+54	die Abfahrt
+55	abgeben
+56	abholen
+57	der Absender
+58	Achtung
+59	die Adresse
+60	all-
+61	allein
+62	also
+63	alt
+64	das Alter
+65	an
+66	anbieten
+67	das Angebot
+68	ander-
+69	anfangen
+70	der Anfang
+71	anklicken
+72	ankommen
+73	die Ankunft
+74	ankreuzen
+75	anmachen
+76	anmelden
+77	die Anmeldung
+78	die Anrede
+79	anrufen
+80	der Anruf
+81	der Anrufbeantworter
+82	die Ansage
+83	der Anschluss
+84	an sein
+85	antworten
+86	die Anzeige
+87	anziehen
+88	das Apartment
+89	der Apfel
+90	der Appetit
+91	arbeiten
+92	arbeitslos
+93	der Arbeitsplatz
+94	der Arm
+95	der Arzt
+96	auch
+97	auf
+98	die Aufgabe
+99	aufhören
+100	auf sein
+101	aufstehen
+102	der Aufzug
+103	das Auge
+104	aus
+105	der Ausflug
+106	ausfüllen
+107	der Ausgang
+108	die Auskunft
+109	das Ausland
+110	der Ausländer
+111	ausländisch
+112	ausmachen
+113	die Aussage
+114	aussehen
+115	aus sein
+116	aussteigen
+117	der Ausweis
+118	ausziehen
+119	das Auto
+120	die Autobahn
+121	der Automat
+122	automatisch
+123	das Baby
+124	die Bäckerei
+125	das Bad
+126	baden
+127	die Bahn
+128	der Bahnhof
+129	der Bahnsteig
+130	bald
+131	der Balkon
+132	die Banane
+133	die Bank
+134	bar
+135	der Bauch
+136	der Baum
+137	der Beamte
+138	bedeuten
+139	beginnen
+140	bei
+141	beide
+142	das Bein
+143	das Beispiel
+144	bekannt
+145	der/die Bekannte
+146	bekommen
+147	benutzen
+148	der Beruf
+149	besetzt
+150	besichtigen
+151	besser
+152	best-
+153	bestellen
+154	besuchen
+155	das Bett
+156	bezahlen
+157	das Bier
+158	das Bild
+159	billig
+160	die Birne
+161	bis
+162	bisschen
+163	bitte
+164	bitter
+165	bleiben
+166	der Bleistift
+167	der Blick
+168	die Blume
+169	der Bogen
+170	böse
+171	brauchen
+172	breit
+173	der Brief
+174	die Briefmarke
+175	bringen
+176	das Brot
+177	das Brötchen
+178	der Bruder
+179	das Buch
+180	der Buchstabe
+181	buchstabieren
+182	der Bus
+183	die Butter
+184	das Café
+185	die CD
+186	der Chef
+187	der Computer
+188	da
+189	die Dame
+190	daneben
+191	danken
+192	der Dank
+193	danke
+194	dann
+195	das Datum
+196	dauern
+197	dein-
+198	denn
+199	der
+200	dich
+201	dies-
+202	dir
+203	die Disco
+204	der Doktor
+205	das Doppelzimmer
+206	das Dorf
+207	dort
+208	draußen
+209	drucken
+210	der Drucker
+211	drücken
+212	durch
+213	die Durchsage
+214	dürfen
+215	der Durst
+216	duschen
+217	die Dusche
+218	die Ecke
+219	die Ehefrau
+220	der Ehemann
+221	das Ei
+222	eilig
+223	ein-
+224	einfach
+225	der Eingang
+226	einkaufen
+227	einladen
+228	die Einladung
+229	einmal
+230	einsteigen
+231	der Eintritt
+232	das Einzelzimmer
+233	die Eltern
+234	die E-Mail
+235	der Empfänger
+236	empfehlen
+237	enden
+238	das Ende
+239	entschuldigen
+240	die Entschuldigung
+241	er
+242	das Ergebnis
+243	erklären
+244	erlauben
+245	der Erwachsene
+246	erzählen
+247	es
+248	essen
+249	euer
+250	fahren
+251	der Fahrer
+252	die Fahrkarte
+253	das Fahrrad
+254	falsch
+255	die Familie
+256	der Familienname
+257	der Familienstand
+258	die Farbe
+259	das Fax
+260	Feier-
+261	feiern
+262	fehlen
+263	der Fehler
+264	fernsehen
+265	fertig
+266	das Feuer
+267	das Fieber
+268	der Film
+269	finden
+270	die Firma
+271	der Fisch
+272	die Flasche
+273	das Fleisch
+274	fliegen
+275	abfliegen
+276	der Abflug
+277	der Flughafen
+278	das Flugzeug
+279	das Formular
+280	das Foto
+281	fragen
+282	die Frau
+283	frei
+284	die Freizeit
+285	fremd
+286	freuen
+287	der Freund
+288	früher
+289	frühstücken
+290	das Frühstück
+291	die Führung
+292	für
+293	der Fuß
+294	der Fußball
+295	der Garten
+296	der Gast
+297	geben
+298	geboren
+299	das Geburtsjahr
+300	der Geburtsort
+301	der Geburtstag
+302	gefallen
+303	gegen
+304	gehen
+305	gehören
+306	das Geld
+307	das Gemüse
+308	das Gepäck
+309	gerade
+310	geradeaus
+311	gern
+312	das Geschäft
+313	das Geschenk
+314	die Geschwister
+315	das Gespräch
+316	gestern
+317	gestorben
+318	das Getränk
+319	das Gewicht
+320	gewinnen
+321	das Glas
+322	glauben
+323	gleich
+324	das Gleis
+325	Der ICE nach Berlin hält heute an Gleis
+326	das Glück
+327	glücklich
+328	der Glückwunsch
+329	Grad
+330	gratulieren
+331	grillen
+332	groß
+333	die Größe
+334	die Großeltern
+335	die Großmutter
+336	der Großvater
+337	die Gruppe
+338	der Gruß
+339	Mit freundlichen Grüßen
+340	gültig
+341	günstig
+342	gut
+343	das Haar
+344	haben
+345	das Hähnchen
+346	die Halbpension
+347	die Halle
+348	Wir treffen uns in Halle B
+349	hallo
+350	halten
+351	die Haltestelle
+352	die Hand
+353	das Handy
+354	das Haus
+355	die Hausaufgabe
+356	die Hausfrau
+357	der Hausmann
+358	die Heimat
+359	heiraten
+360	heißen
+361	helfen
+362	hell
+363	der Herd
+364	der Herr
+365	herzlich
+366	heute
+367	hier
+368	die Hilfe
+369	hinten
+370	das Hobby
+371	hoch
+372	die Hochzeit
+373	holen
+374	hören
+375	das Hotel
+376	der Hund
+377	der Hunger
+378	ich
+379	ihr/ihm/ihn
+380	immer
+381	in
+382	die Information
+383	international
+384	das Internet
+385	ja
+386	die Jacke
+387	jed-
+388	jetzt
+389	der Job
+390	der Jugendliche
+391	jung
+392	der Junge
+393	der Kaffee
+394	kaputt
+395	die Karte
+396	-Karte
+397	die Kartoffel
+398	die Kasse
+399	kaufen
+400	kein
+401	kennen
+402	kennenlernen
+403	das Kind
+404	der Kindergarten
+405	das Kino
+406	der Kiosk
+407	klar
+408	die Klasse
+409	die Kleidung
+410	klein
+411	kochen
+412	der Koffer
+413	der Kollege
+414	kommen
+415	können
+416	das Konto
+417	der Kopf
+418	kosten
+419	krank
+420	kriegen
+421	die Küche
+422	der Kuchen
+423	der Kugelschreiber
+424	der Kühlschrank
+425	kulturell
+426	sich kümmern
+427	der Kunde
+428	der Kurs
+429	kurz
+430	lachen
+431	der Laden
+432	das Land
+433	lang
+434	lange
+435	langsam
+436	laufen
+437	laut
+438	leben
+439	die Lebensmittel
+440	ledig
+441	legen
+442	der Lehrer
+443	leicht
+444	leider
+445	leise
+446	lernen
+447	lesen
+448	Ich lese ein Buch von García Márquez. letzt-
+449	die Leute
+450	das Licht
+451	lieb-
+452	Liebe Susanne
+453	lieben
+454	lieber
+455	Lieblings-
+456	das Lied
+457	liegen
+458	links
+459	der Lkw
+460	das Lokal
+461	die Lösung
+462	lustig
+463	machen
+464	das Mädchen
+465	man
+466	der Mann
+467	männlich
+468	die Maschine
+469	das Meer
+470	mehr
+471	mein
+472	meist-
+473	der Mensch
+474	mieten
+475	die Miete
+476	die Milch
+477	mit
+478	mitbringen
+479	mitkommen
+480	mitmachen
+481	mitnehmen
+482	die Mitte
+483	die Möbel
+484	möchten
+485	mögen
+486	möglich
+487	der Moment
+488	müde
+489	der Mund
+490	müssen
+491	die Mutter
+492	nach
+493	nächst-
+494	der Name
+495	nehmen
+496	nein
+497	neu
+498	nicht
+499	nichts
+500	nie
+501	noch
+502	normal
+503	die Nummer
+504	nur
+505	oben
+506	das Obst
+507	oder
+508	öffnen
+509	geöffnet
+510	oft
+511	ohne
+512	das Öl
+513	die Oma
+514	der Opa
+515	die Ordnung
+516	der Ort
+517	das Papier
+518	die Papiere
+519	der Partner
+520	die Partnerin
+521	die Party
+522	der Pass
+523	die Pause
+524	der Plan
+525	der Platz
+526	die Polizei
+527	die Pommes frites
+528	die Post
+529	die Postleitzahl
+530	das Praktikum
+531	die Praxis
+532	der Preis
+533	das Problem
+534	der Prospekt
+535	die Prüfung
+536	pünktlich
+537	Rad fahren
+538	rauchen
+539	der Raum
+540	die Rechnung
+541	rechts
+542	regnen
+543	der Regen
+544	der Reis
+545	reisen
+546	die Reise
+547	das Reisebüro
+548	der Reiseführer
+549	reparieren
+550	die Reparatur
+551	das Restaurant
+552	die Rezeption
+553	richtig
+554	riechen
+555	ruhig
+556	der Saft
+557	sagen
+558	der Salat
+559	das Salz
+560	Satz
+561	die S-Bahn
+562	der Schalter
+563	scheinen
+564	schicken
+565	das Schild
+566	der Schinken
+567	schlafen
+568	schlecht
+569	schließen
+570	geschlossen
+571	der Schluss
+572	der Schlüssel
+573	schmecken
+574	schnell
+575	schon
+576	schön
+577	der Schrank
+578	schreiben
+579	der Schuh
+580	die Schule
+581	der Schüler
+582	schwer
+583	die Schwester
+584	schwimmen
+585	das Schwimmbad
+586	der See
+587	sehen
+588	die Sehenswürdigkeit
+589	sehr
+590	sein
+591	weg sein
+592	zu sein
+593	seit
+594	selbstständig
+595	sich
+596	sie
+597	sitzen
+598	so
+599	das Sofa
+600	sofort
+601	der Sohn
+602	sollen
+603	die Sonne
+604	spät
+605	später
+606	die Speisekarte
+607	spielen
+608	der Sport
+609	die Sprache
+610	sprechen
+611	die Stadt
+612	stehen
+613	die Stelle
+614	der Stock
+615	die Straße
+616	die Straßenbahn
+617	studieren
+618	das Studium
+619	der Student
+620	suchen
+621	tanzen
+622	die Tasche
+623	das Taxi
+624	der Tee
+625	der Teil
+626	telefonieren
+627	das Telefon
+628	der Termin
+629	der Test
+630	teuer
+631	der Text
+632	das Thema
+633	das Ticket
+634	der Tisch
+635	die Tochter
+636	die Toilette
+637	die Tomate
+638	tot
+639	treffen
+640	die Treppe
+641	trinken
+642	tschüss
+643	tun
+644	über
+645	übernachten
+646	überweisen
+647	um
+648	umziehen
+649	und
+650	unser-
+651	unten
+652	unter
+653	der Unterricht
+654	unterschreiben
+655	die Unterschrift
+656	der Urlaub
+657	der Vater
+658	verboten
+659	verdienen
+660	der Verein
+661	verheiratet
+662	verkaufen
+663	der Verkäufer
+664	vermieten
+665	der Vermieter
+666	verstehen
+667	der Verwandte
+668	viel
+669	vielleicht
+670	von
+671	vor
+672	der Vorname
+673	die Vorsicht
+674	vorstellen
+675	die Vorwahl
+676	wandern
+677	wann
+678	warten
+679	warum
+680	was
+681	was für ein
+682	waschen
+683	das Wasser
+684	weh tun
+685	weiblich
+686	der Wein
+687	weit
+688	weiter
+689	welch-
+690	die Welt
+691	wenig
+692	wer
+693	werden
+694	das Wetter
+695	wichtig
+696	wie
+697	wiederholen
+698	das Wiederhören
+699	das Wiedersehen
+700	wie viel
+701	willkommen
+702	der Wind
+703	wir
+704	wissen
+705	wo
+706	woher
+707	wohin
+708	wohnen
+709	die Wohnung
+710	wollen
+711	das Wort
+712	wunderbar
+713	zahlen
+714	die Zeit
+715	zurzeit
+716	die Zeitung
+717	die Zigarette
+718	das Zimmer
+719	der Zoll
+720	zu
+721	zufrieden
+722	der Zug
+723	zurück
+724	zusammen
+725	zwischen
+726	ca.
+727	d. h.
+728	ICE
+729	PC
+730	SMS
+731	usw.
+732	WC
+733	z. B.
+734	Antwortbogen
+735	markieren
+736	Prüfer
+737	Punkt
+738	Wörterbuch
+739	Angestellter
+740	Auszubildender
+741	Autor
+742	Babysitter
+743	Bäcker
+744	Friseur
+745	Handwerker
+746	Journalist
+747	Kaufmann
+748	Kellner
+749	Koch
+750	Krankenpfleger
+751	Künstler
+752	Mechaniker
+753	Model
+754	Musiker
+755	Polizist
+756	Rentner
+757	Sänger
+758	Schauspieler
+759	Techniker
+760	Cousin
+761	Eltern
+762	Enkel
+763	Geschwister
+764	Großeltern
+765	Großmutter
+766	Großvater
+767	Mutter
+768	Onkel
+769	Tante
+770	Vater
+771	getrennt
+772	lila
+773	orange
+774	rosa
+775	schwarz
+776	Deutschland
+777	Österreich
+778	die Schweiz
+779	Luxemburg
+780	Europa
+781	Abitur
+782	Direktor
+783	Klassenfahrt
+784	Sekretariat
+785	Stundenplan
+786	Biologie
+787	Chemie
+788	Englisch
+789	Französisch
+790	Geografie
+791	Geschichte
+792	Kunst
+793	Latein
+794	Mathematik
+795	Musik
+796	Physik
+797	Religion
+798	Sozialkunde
+799	Karneval
+800	Ostern
+801	Weihnachten
+802	Neujahr
+803	Mitternacht
+804	am Wochenende
+805	montags
+806	dienstags
+807	mittwochs
+808	donnerstags
+809	freitags
+810	samstags
+811	sonntags
+812	Arbeitstag
+813	Feiertag
+814	tausend
+815	erstens
+816	abschließen
+817	Achtung
+818	die Ahnung
+819	aktiv
+820	aktuell
+821	als
+822	das Alter
+823	die Ampel
+824	ändern
+825	anders
+826	die Angst
+827	anmelden
+828	ansehen
+829	die Antwort
+830	der Anzug
+831	die Apotheke
+832	der Apparat
+833	die Arbeit
+834	ärgern
+835	der Artikel
+836	auf jeden/ keinen Fall
+837	aufmachen
+838	aufpassen
+839	aufräumen
+840	aufregend
+841	die Ausbildung
+842	ausgeben
+843	ausgehen
+844	das Ausland
+845	auspacken
+846	ausruhen
+847	außer
+848	außerdem
+849	außerhalb
+850	aussprechen
+851	die Ausstellung
+852	austragen
+853	backen
+854	der Ball
+855	die Band
+856	der Basketball
+857	basteln
+858	bauen
+859	die Baustelle
+860	beantworten
+861	bedanken
+862	beeilen
+863	beenden
+864	begründen
+865	beliebt
+866	bequem
+867	beraten
+868	der Berg
+869	berichten
+870	berühmt
+871	der Bescheid
+872	beschreiben
+873	beschweren
+874	besonders
+875	bestätigen
+876	bestehen
+877	der Besuch
+878	bewerben
+879	die Bewerbung
+880	bewölkt
+881	die Wolke
+882	die Bibliothek
+883	bitten
+884	das Blatt
+885	blöd
+886	der/das Blog
+887	blond
+888	die Bluse
+889	die Bohne
+890	braten
+891	die Brille
+892	die Brücke
+893	buchen
+894	bunt
+895	das Büro
+896	die Butter
+897	die Cafeteria
+898	chatten
+899	der Club
+900	der/das Comic
+901	die Creme
+902	da (Bsp. darauf
+903	dabei
+904	dafür/dagegen sein
+905	damals
+906	der Dank
+907	dass
+908	die Datei
+909	denken
+910	deshalb
+911	deutlich
+912	dick
+913	das Ding
+914	direkt
+915	diskutieren
+916	doch
+917	dringend
+918	drinnen
+919	drüben
+920	dumm
+921	dunkel
+922	dünn
+923	der Durst
+924	duschen
+925	das E-Book
+926	echt
+927	egal
+928	eigen-
+929	eigentlich
+930	einig-
+931	das Einkaufszentrum
+932	einpacken
+933	eintragen
+934	einverstanden sein
+935	einzel-
+936	einziehen
+937	das Eis
+938	endlich
+939	eng
+940	entschuldigen
+941	das Erdgeschoss
+942	die Erfahrung
+943	erinnern
+944	erkältet sein
+945	erlaubt sein
+946	die Erlaubnis
+947	die Ermäßigung
+948	erreichen
+949	erst
+950	etwas
+951	das Fach
+952	der Fahrplan
+953	fallen
+954	der Fan
+955	fantastisch
+956	fast
+957	faul
+958	das Fenster
+959	die Ferien
+960	der Fernseher
+961	fertig sein
+962	das Fest
+963	das Festival
+964	fett
+965	das Fieber
+966	fit sein
+967	das Fleisch
+968	fleißig
+969	der Flohmarkt
+970	der Flug
+971	der Fluss
+972	der Fotoapparat
+973	fotografieren
+974	die Frage
+975	freiwillig
+976	die Freizeit
+977	freuen
+978	die Freundin
+979	freundlich
+980	frisch
+981	froh
+982	früh
+983	das Frühstück
+984	fühlen
+985	der Führerschein
+986	die Fundsachen
+987	furchtbar
+988	die Gabel
+989	ganz
+990	die Garage
+991	geehrt-
+992	gefährlich
+993	das Gegenteil
+994	gegenüber
+995	das Gehalt
+996	das Geld
+997	die Geldbörse
+998	das Gemüse
+999	genau
+1000	genug
+1001	das Gepäck
+1002	das Gerät
+1003	das Gericht
+1004	gern
+1005	am liebsten
+1006	das Geschirr
+1007	das Gesicht
+1008	gesund
+1009	die Gesundheit
+1010	das Gewitter
+1011	die Gitarre
+1012	das Glück
+1013	die Grippe
+1014	gültig sein
+1015	am besten
+1016	der Hals
+1017	der Hamburger
+1018	das Handtuch
+1019	hängen
+1020	hart
+1021	hässlich
+1022	die Hauptstadt
+1023	der Haushalt
+1024	das Heft
+1025	die Heimat
+1026	heiß
+1027	die Heizung
+1028	das Hemd
+1029	her/her-/-her
+1030	heraus/raus
+1031	herein/rein
+1032	herstellen
+1033	herunterladen
+1034	die Hilfe
+1035	der Himmel
+1036	hin/hin-/-hin
+1037	hinter
+1038	hoffen
+1039	hoffentlich
+1040	die Homepage
+1041	die Hose
+1042	der Hunger
+1043	husten
+1044	die Idee
+1045	informieren
+1046	die Insel
+1047	das Instrument
+1048	intelligent
+1049	das Interesse
+1050	interessieren
+1051	interessant
+1052	das Internet
+1053	das Interview
+1054	die Jeans
+1055	jeder
+1056	jemand
+1057	joggen
+1058	die Jugendherberge
+1059	der/die Jugendliche
+1060	der Kalender
+1061	kalt
+1062	die Kamera
+1063	der Käse
+1064	die Katze
+1065	das Kaufhaus
+1066	der Keller
+1067	die Kenntnisse
+1068	die Kette
+1069	die Kirche
+1070	klappen
+1071	das Klavier
+1072	das Kleid
+1073	die Kleidung
+1074	klug
+1075	komisch
+1076	der Kontakt
+1077	kontrollieren
+1078	das Konzert
+1079	der Körper
+1080	die Kosmetik
+1081	kostenlos
+1082	das Krankenhaus
+1083	die Krankenkasse
+1084	die Krankheit
+1085	der Kredit
+1086	die Kreuzung
+1087	der Krimi
+1088	kühl
+1089	die Kultur
+1090	kümmern
+1091	kündigen
+1092	die Kunst
+1093	die Lampe
+1094	die Landschaft
+1095	langweilig
+1096	der/das Laptop
+1097	lassen
+1098	leer
+1099	leidtun/leid tun
+1100	leihen
+1101	letzt-
+1102	liefern
+1103	der Link
+1104	der Löffel
+1105	die Lüge
+1106	lügen
+1107	die Lust
+1108	der Magen
+1109	die Mailbox
+1110	mal
+1111	malen
+1112	manch-
+1113	manchmal
+1114	die Mannschaft
+1115	der Mantel
+1116	der Markt
+1117	das Medikament
+1118	meinen
+1119	die Meinung
+1120	meistens
+1121	die Menge
+1122	merken
+1123	die Messe
+1124	das Messer
+1125	die Milch
+1126	mindestens
+1127	das Mineralwasser
+1128	mit (+ mitbringen/-kommen/-machen/-nehme
+1129	der Mitarbeiter
+1130	das Mittagessen
+1131	das Mittel
+1132	das Mobiltelefon
+1133	die Mode
+1134	modern
+1135	der Motor
+1136	der Motorroller
+1137	der Müll
+1138	das Museum
+1139	die Musik
+1140	die Mütze
+1141	der Nachbar
+1142	die Nachricht
+1143	nächste
+1144	die Nähe
+1145	nass
+1146	die Natur
+1147	natürlich
+1148	neben
+1149	nebenan
+1150	neblig
+1151	nennen
+1152	nervös
+1153	nett
+1154	niemand
+1155	nirgends
+1156	die Note
+1157	notieren
+1158	die Notiz
+1159	notwendig
+1160	die Nudel
+1161	nützlich
+1162	das Obst
+1163	offen
+1164	das Ohr
+1165	online
+1166	organisieren
+1167	das Paar
+1168	packen
+1169	das Paket
+1170	das Parfüm
+1171	der Park
+1172	parken
+1173	passen
+1174	passieren
+1175	das Passwort
+1176	die Person
+1177	das Pferd
+1178	die Pflanze
+1179	die Pizza
+1180	das Plakat
+1181	planen
+1182	plötzlich
+1183	die Polizei
+1184	die Portion
+1185	die Post
+1186	das Poster
+1187	die Postkarte
+1188	praktisch
+1189	preiswert
+1190	privat
+1191	pro
+1192	probieren
+1193	das Produkt
+1194	das Programm
+1195	das Projekt
+1196	prüfen
+1197	der Pullover
+1198	putzen
+1199	die Qualität
+1200	das Quiz
+1201	das Radio
+1202	raten
+1203	das Rathaus
+1204	das Rätsel
+1205	rechnen
+1206	recht haben
+1207	reden
+1208	der Regen
+1209	reich
+1210	der Reifen
+1211	die Reihe
+1212	die Reinigung
+1213	der Reis
+1214	reiten
+1215	renovieren
+1216	reservieren
+1217	der Rest
+1218	das Rezept
+1219	das Rind
+1220	der Ring
+1221	der Rock
+1222	romantisch
+1223	die Rose
+1224	der Rücken
+1225	der Rucksack
+1226	rufen
+1227	die Ruhe
+1228	rund
+1229	der Rundgang
+1230	die Sache
+1231	sammeln
+1232	sauber
+1233	sauer
+1234	schade
+1235	schädlich
+1236	schaffen
+1237	scharf
+1238	schenken
+1239	die Schere
+1240	das Schiff
+1241	schimpfen
+1242	der Schirm
+1243	das Schlafzimmer
+1244	schlimm
+1245	das Schloss
+1246	der Schmerz
+1247	schmutzig
+1248	der Schnee
+1249	schneiden
+1250	schneien
+1251	die Schokolade
+1252	schrecklich
+1253	schriftlich
+1254	schwach
+1255	schwanger
+1256	das Schwein
+1257	schwierig
+1258	die See
+1259	die Seife
+1260	die Seite
+1261	selbst
+1262	die Sendung
+1263	der Service
+1264	setzen
+1265	sicher
+1266	singen
+1267	die Situation
+1268	der Ski
+1269	sogar
+1270	sonnig
+1271	sonst
+1272	spannend
+1273	sparen
+1274	der Spaß
+1275	spazieren gehen
+1276	der Spaziergang
+1277	speichern
+1278	das Spiel
+1279	der Sport
+1280	sportlich
+1281	der Sportplatz
+1282	die Sprechstunde
+1283	der Stadtplan
+1284	der Star
+1285	stark
+1286	stattfinden
+1287	stellen
+1288	sterben
+1289	der Stiefel
+1290	der Stift
+1291	das Stipendium
+1292	das Stockwerk
+1293	stören
+1294	der Strand
+1295	streiten
+1296	streng
+1297	der Stress
+1298	stressig
+1299	das Stück
+1300	das Studium
+1301	der Stuhl
+1302	super
+1303	der Supermarkt
+1304	die Suppe
+1305	surfen
+1306	süß
+1307	die Süßigkeiten
+1308	sympathisch
+1309	das Tablet
+1310	die Tablette
+1311	die Tafel
+1312	das Taschengeld
+1313	die Tasse
+1314	tauschen
+1315	das Team
+1316	teilen
+1317	teilnehmen
+1318	der Teller
+1319	das Tennis
+1320	das Theater
+1321	tief
+1322	das Tier
+1323	der Tipp
+1324	der Titel
+1325	toll
+1326	der Topf
+1327	die Torte
+1328	total
+1329	die Tour
+1330	der Tourist
+1331	tragen
+1332	trainieren
+1333	das Training
+1334	der Traum
+1335	träumen
+1336	traurig
+1337	treffen
+1338	trocken
+1339	tschüs
+1340	das T-Shirt
+1341	die Tür
+1342	typisch
+1343	üben
+1344	überall
+1345	übermorgen
+1346	übersetzen
+1347	die Übersetzung
+1348	umsteigen
+1349	sich umziehen
+1350	der Umzug
+1351	unbedingt
+1352	der Unfall
+1353	die Universität
+1354	unterhalten
+1355	die Unterkunft
+1356	unternehmen
+1357	der Unterricht
+1358	der Unterschied
+1359	untersuchen
+1360	unterwegs sein
+1361	verabredet sein
+1362	die Veranstaltung
+1363	verbieten
+1364	vereinbaren
+1365	vergessen
+1366	vergleichen
+1367	der Verkehr
+1368	das Verkehrsmittel
+1369	verletzen
+1370	verlieben
+1371	verlieren
+1372	verpassen
+1373	verreisen
+1374	verschieben
+1375	verschieden
+1376	die Verspätung
+1377	versuchen
+1378	der Vertrag
+1379	der Vogel
+1380	voll
+1381	der Volleyball
+1382	vorbei
+1383	vorbereiten
+1384	vorgestern
+1385	vorher
+1386	vorn
+1387	der Vorschlag
+1388	vorsichtig
+1389	vorstellen
+1390	vorwärts
+1391	wach
+1392	der Wagen
+1393	wählen
+1394	wahr
+1395	wahrscheinlich
+1396	der Wald
+1397	warm
+1398	die Wäsche
+1399	waschen
+1400	das Wasser
+1401	die Webseite
+1402	wechseln
+1403	wecken
+1404	weg/weg-(wegbringen/ -fahren/-gehen/
+1405	der Weg
+1406	wegen
+1407	weich
+1408	weil
+1409	weinen
+1410	weiter
+1411	welcher
+1412	wenigstens
+1413	wenn
+1414	wer (wen
+1415	die Werkstatt
+1416	der Wettbewerb
+1417	das Wetter
+1418	wieder
+1419	windig
+1420	wirklich
+1421	der Witz
+1422	witzig
+1423	das Wohnzimmer
+1424	der Workshop
+1425	der Wunsch
+1426	wünschen
+1427	die Wurst
+1428	die Zahl
+1429	der Zahn
+1430	zeichnen
+1431	zeigen
+1432	die Zeitschrift
+1433	das Zelt
+1434	das Zentrum
+1435	der Zettel
+1436	das Zeugnis
+1437	/ziehen
+1438	das Ziel
+1439	der Zirkus
+1440	die Zitrone
+1441	der Zoo
+1442	der Zucker
+1443	zuerst
+1444	zuhören
+1445	zuletzt
+1446	zum Beispiel
+1447	zumachen
+1448	zurück- (fahren
+1449	die DVD
+1450	das EG
+1451	das Kfz
+1452	der Pkw
+1453	die/das SMS
+1454	das TV
+1455	die WG
+1456	der/die Babysitter/in
+1457	der Bikini
+1458	der Blog
+1459	das Camp
+1460	die Castingshow
+1461	der CD-Player CD
+1462	der Chat
+1463	checken
+1464	der Chip
+1465	die City
+1466	die/das Cola
+1467	cool
+1468	das E-Bike
+1469	fit
+1470	global
+1471	googeln
+1472	der Hit
+1473	der Jazz
+1474	der/das Ketchup/Ketschup
+1475	der/die Killer/in
+1476	der Laptop
+1477	live
+1478	die
+1479	der/die Manager/in
+1480	das Mountainbike
+1481	okay
+1482	die Plattform
+1483	das Puzzle
+1484	das/der Sandwich
+1485	die Show
+1486	das Smartphone
+1487	der Snack
+1488	die Software
+1489	der Song
+1490	der Spot
+1491	das Steak
+1492	der Swimmingpool
+1493	der Terminal
+1494	der Trend
+1495	das T-Shirt T
+1496	twittern
+1497	der/die User/in
+1498	die Einleitung
+1499	die Folie
+1500	das Hilfsmittel
+1501	der Kommentar
+1502	lösen
+1503	der/die Moderator/in
+1504	das Modul
+1505	die Präsentation
+1506	die Rückmeldung
+1507	die Struktur
+1508	der Textaufbau
+1509	übertragen
+1510	zuordnen
+1511	D: Krippe
+1512	D: Grundschule
+1513	D: Berufsschule
+1514	D: Hochschule
+1515	A: Krippe
+1516	A: Hauptschule
+1517	A: AHS
+1518	A: Hochschule
+1519	A: Pädagogische Hochschule
+1520	CH: Krippe
+1521	CH: Primarschule
+1522	Philosophie
+1523	A: 1 sehr gut
+1524	violett
+1525	Deutschland - der/die Deutsche - deutsch - Deut…
+1526	Europa - der Europäer/die Europäerin - europäis…
+1527	Österreich - der Österreicher/die Österreicheri…
+1528	die Schweiz - der Schweizer/die Schweizerin - S…
+1529	Griechenland - der Grieche/die Griechin - griec…
+1530	die Türkei - der Türke/die Türkin - türkisch - …
+1531	die Ukraine - der Ukrainer/die Ukrainerin - ukr…
+1532	der Bund
+1533	der/die Bundeskanzler/in
+1534	der/die Bundespräsident/in
+1535	der/die Bürgermeister/in
+1536	die Demokratie
+1537	die Europäische Union
+1538	die Gemeinde
+1539	konservativ
+1540	der/die Minister/in
+1541	das Parlament
+1542	die Partei
+1543	die Regierung
+1544	der Staat
+1545	D: das Bundesland
+1546	A: das Bundesland
+1547	CH: Ammann
+1548	CH: Schweizerische Eidgenossenschaft
+1549	CH: Nationalrat
+1550	der Affe
+1551	der Bär
+1552	die Biene
+1553	der Elefant
+1554	die Ente
+1555	die Fliege
+1556	die Giraffe
+1557	der Hase
+1558	das Insekt
+1559	das Krokodil
+1560	die Kuh
+1561	der Löwe
+1562	die Maus
+1563	die Mücke
+1564	der Pinguin
+1565	das Schaf
+1566	die Schildkröte
+1567	die Schlange
+1568	der/die/das erste
+1569	plus
+1570	Januar
+1571	Jahrzehnt
+1572	abbiegen
+1573	die Abbildung
+1574	das Abenteuer
+1575	der Abfall
+1576	der Abfalleimer
+1577	Abgase
+1578	abhängen
+1579	abhängig
+1580	abheben
+1581	abschreiben
+1582	das Abitur
+1583	ablehnen
+1584	abmachen
+1585	abnehmen
+1586	abonnieren
+1587	das Abonnement
+1588	absagen
+1589	der Abschluss
+1590	der Abschnitt
+1591	die Absicht
+1592	absolut
+1593	abstimmen
+1594	die Abteilung
+1595	der Abwart
+1596	abwärts
+1597	abwaschen
+1598	abwesend
+1599	achten
+1600	ähnlich
+1601	die Aktion
+1602	die Aktivität
+1603	akzeptieren
+1604	der Alarm
+1605	der Alkohol
+1606	aller-
+1607	allerdings
+1608	allgemein
+1609	der Alltag
+1610	alltäglich
+1611	das Alphabet
+1612	als ob
+1613	das Altenheim
+1614	das Altersheim
+1615	alternativ
+1616	die Alternative
+1617	das Amt
+1618	sich amüsieren
+1619	analysieren
+1620	der Anbieter
+1621	andererseits
+1622	die Änderung
+1623	anerkennen
+1624	anfangs
+1625	angeben
+1626	die Angabe
+1627	der Angehörige
+1628	angenehm
+1629	ängstlich
+1630	anhaben
+1631	ankündigen
+1632	die Anlage
+1633	die Anleitung
+1634	anmelden
+1635	annehmen
+1636	die Annonce
+1637	anschaffen
+1638	anschließen
+1639	anschnallen
+1640	ansprechen
+1641	der Anspruch
+1642	anstellen
+1643	der Angestellte
+1644	sich anstrengen
+1645	anstrengend
+1646	der Antrag
+1647	anwenden
+1648	anwesend
+1649	der Anwalt
+1650	anzeigen
+1651	die Aprikose
+1652	der Arbeiter
+1653	die Arbeitserlaubnis
+1654	die Arbeitslosigkeit
+1655	die Arbeitsstelle
+1656	der Architekt
+1657	ärgern
+1658	der Ärger
+1659	ärgerlich
+1660	die Art
+1661	das Asyl
+1662	atmen
+1663	der Atem
+1664	der Aufenthalt
+1665	auffallen
+1666	auffordern
+1667	die Aufforderung
+1668	aufführen
+1669	aufgeben
+1670	aufhalten
+1671	aufheben
+1672	aufladen
+1673	auflösen
+1674	aufmerksam
+1675	aufnehmen
+1676	die Aufnahme
+1677	aufregen
+1678	der Auftrag
+1679	auftreten
+1680	der Auftritt
+1681	aufwachen
+1682	aufwärts
+1683	der Augenblick
+1684	ausgebildet
+1685	ausdrucken
+1686	der Ausdruck
+1687	auseinander
+1688	die Ausfahrt
+1689	ausfallen
+1690	die Ausgabe
+1691	ausgezeichnet
+1692	die Aushilfe
+1693	die Ausnahme
+1694	ausreichen
+1695	ausreichend
+1696	ausrichten
+1697	ausruhen
+1698	ausschließen
+1699	ausschließlich
+1700	außen
+1701	äußerlich
+1702	die Aussicht
+1703	die Aussprache
+1704	ausstellen
+1705	aussuchen
+1706	auswählen
+1707	die Auswahl
+1708	ausziehen
+1709	die Badewanne
+1710	die U-Bahn
+1711	das Ballett
+1712	der Bancomat
+1713	die Bankleitzahl
+1714	die Bankomat-Karte
+1715	das Bargeld
+1716	der Bart
+1717	die Batterie
+1718	der Bau
+1719	der Bauer
+1720	beachten
+1721	beantragen
+1722	sich bedanken
+1723	der Bedarf
+1724	die Bedeutung
+1725	bedienen
+1726	die Bedienungsanleitung
+1727	die Bedingung
+1728	sich beeilen
+1729	sich befinden
+1730	befreit
+1731	befriedigend
+1732	begegnen
+1733	begeistert
+1734	der Beginn
+1735	begleiten
+1736	begrenzt
+1737	die Begründung
+1738	begrüßen
+1739	behalten
+1740	behandeln
+1741	behaupten
+1742	behindern
+1743	die Behörde
+1744	beid-
+1745	beinahe
+1746	beißen
+1747	der Beitrag
+1748	der Bekannte
+1749	bekannt geben
+1750	der Beleg
+1751	beleidigen
+1752	bemerken
+1753	sich bemühen
+1754	benötigen
+1755	das Benzin
+1756	beobachten
+1757	die Beratung
+1758	berechnen
+1759	der Bereich
+1760	bereit
+1761	bereits
+1762	der Bericht
+1763	beruflich
+1764	berufstätig
+1765	beruhigen
+1766	beschäftigen
+1767	die Beschäftigung
+1768	der Bescheid
+1769	Bescheid sagen
+1770	Bescheid geben
+1771	beschließen
+1772	beschränken
+1773	die Beschreibung
+1774	sich beschweren
+1775	besetzen
+1776	besitzen
+1777	besonder-
+1778	besorgen
+1779	besprechen
+1780	die Besprechung
+1781	die Besserung
+1782	die Bestätigung
+1783	bestimmt
+1784	bestrafen
+1785	sich beteiligen
+1786	der Betrag
+1787	betreuen
+1788	der Betreuer
+1789	die Betreuung
+1790	der Betrieb
+1791	der Betriebsrat
+1792	betrügen
+1793	betrunken
+1794	die Bevölkerung
+1795	bevor
+1796	bewegen
+1797	die Bewegung
+1798	beweisen
+1799	der Beweis
+1800	sich bewerben
+1801	der Bewohner
+1802	die Beziehung
+1803	bieten
+1804	der Bildschirm
+1805	das Billett
+1806	Bio-
+1807	bio
+1808	bisher
+1809	blass
+1810	blind
+1811	blitzen
+1812	der Blitz
+1813	bloß
+1814	blühen
+1815	bluten
+1816	das Blut
+1817	der Boden
+1818	das Boot
+1819	die Botschaft
+1820	brechen
+1821	die Breite
+1822	bremsen
+1823	die Bremse
+1824	brennen
+1825	der Briefkasten
+1826	der Briefträger
+1827	die Broschüre
+1828	die Brust
+1829	der Bub
+1830	die Buchhandlung
+1831	die Büchse
+1832	das Buffet
+1833	die Bühne
+1834	die Burg
+1835	der Bürger
+1836	die Bürste
+1837	die Zahnbürste
+1838	die Chance
+1839	chic/schick
+1840	der Coiffeur
+1841	die Couch
+1842	dabei
+1843	das Dach
+1844	dafür
+1845	dagegen
+1846	daher
+1847	dahin
+1848	damit
+1849	danach
+1850	dankbar
+1851	darstellen
+1852	die Darstellung
+1853	die Daten
+1854	die Dauer
+1855	dauernd
+1856	die Decke
+1857	dekorieren
+1858	der Gedanke
+1859	das Denkmal
+1860	derselbe
+1861	das Dessert
+1862	deswegen
+1863	das Detail
+1864	die Diät
+1865	der Dialekt
+1866	der Dialog
+1867	dicht
+1868	der Dieb
+1869	dienen
+1870	der Dienst
+1871	diesmal
+1872	digital
+1873	das Diplom
+1874	die Diskothek
+1875	die Diskussion
+1876	die Distanz
+1877	das Dokument
+1878	donnern
+1879	der Donner
+1880	doppelt
+1881	Doppel-
+1882	dorthin
+1883	die Dose
+1884	der Dreck
+1885	drehen
+1886	drin
+1887	die Droge
+1888	die Drogerie
+1889	der Druck
+1890	durcheinander
+1891	der Durchschnitt
+1892	durchschnittlich
+1893	durstig
+1894	duzen
+1895	eben
+1896	ebenfalls
+1897	ebenso
+1898	die e-card
+1899	die ec-Karte
+1900	das Eck
+1901	eckig
+1902	die Ehe
+1903	das Ehepaar
+1904	eher
+1905	ehrlich
+1906	sich eignen
+1907	eilen
+1908	die Eile
+1909	die Einbahnstraße
+1910	einbrechen
+1911	der Einbrecher
+1912	der Einbruch
+1913	eindeutig
+1914	der Eindruck
+1915	einerseits
+1916	die Einfahrt
+1917	einfallen
+1918	der Einfall
+1919	der Einfluss
+1920	beeinflussen
+1921	einfügen
+1922	einführen
+1923	die Einführung
+1924	einheitlich
+1925	sich einigen
+1926	der Einkauf
+1927	das Einkommen
+1928	einnehmen
+1929	die Einnahme
+1930	einrichten
+1931	die Einrichtung
+1932	einsam
+1933	einschalten
+1934	einschließlich
+1935	das Einschreiben
+1936	einsetzen
+1937	einstellen
+1938	eintragen
+1939	eintreten
+1940	einverstanden
+1941	der Einwohner
+1942	einzahlen
+1943	die Einzahlung
+1944	einzeln
+1945	die Einzelheit
+1946	einzig-
+1947	das Eis
+1948	das Eis (D
+1949	die Eisenbahn
+1950	elegant
+1951	elektrisch
+1952	Elektro-
+1953	elektronisch
+1954	empfangen
+1955	der Empfang
+1956	die Empfehlung
+1957	endgültig
+1958	die Energie
+1959	entdecken
+1960	entfernen
+1961	die Entfernung
+1962	entgegenkommen
+1963	enthalten
+1964	entlang
+1965	entlassen
+1966	die Entlassung
+1967	entscheiden
+1968	die Entscheidung
+1969	unentschieden
+1970	sich entschließen
+1971	entschlossen
+1972	entsorgen
+1973	entspannend
+1974	entstehen
+1975	enttäuschen
+1976	die Enttäuschung
+1977	entweder ... oder
+1978	entwickeln
+1979	die Entwicklung
+1980	die Erde
+1981	der Erdapfel
+1982	das Erdgeschoss/ Ergeschoß
+1983	das Ereignis
+1984	sich ereignen
+1985	erfahren
+1986	erfinden
+1987	die Erfindung
+1988	der Erfolg
+1989	erfolgreich
+1990	erforderlich
+1991	erfordern
+1992	erfüllen
+1993	ergänzen
+1994	erhalten
+1995	erhöhen
+1996	die Erhöhung
+1997	sich erholen
+1998	die Erholung
+1999	erinnern
+2000	die Erinnerung
+2001	sich erkälten
+2002	erkältet
+2003	die Erkältung
+2004	erkennen
+2005	die Erklärung
+2006	sich erkundigen
+2007	die Erlaubnis
+2008	erleben
+2009	das Erlebnis
+2010	erledigen
+2011	erleichtern
+2012	ernähren
+2013	die Ernährung
+2014	ernst
+2015	ernsthaft
+2016	die Ernte
+2017	eröffnen
+2018	die Eröffnung
+2019	erschöpft
+2020	erschrecken
+2021	ersetzen
+2022	der Ersatz
+2023	erstellen
+2024	erwachsen
+2025	erwarten
+2026	die Erzählung
+2027	erziehen
+2028	die Erziehung
+2029	der Essig
+2030	die Etage
+2031	etwa
+2032	eventuell
+2033	ewig
+2034	der Experte
+2035	der Export
+2036	extra
+2037	extrem
+2038	die Fabrik
+2039	der Fachmann
+2040	die Fachleute
+2041	die Fähigkeit
+2042	die Fähre
+2043	die Fahrbahn
+2044	das Fahrzeug
+2045	fair
+2046	der Faktor
+2047	der Fall
+2048	fällig
+2049	falls
+2050	fangen
+2051	die Fantasie/Phantasie
+2052	farbig
+2053	das Faschierte
+2054	fassen
+2055	faulenzen
+2056	der Fauteuil
+2057	der Feierabend
+2058	das Feld
+2059	die Ferien
+2060	Ferien-
+2061	die Fernbedienung
+2062	die Festplatte
+2063	festhalten
+2064	festlegen
+2065	festnehmen
+2066	festsetzen
+2067	feststehen
+2068	feststellen
+2069	feucht
+2070	das Feuerzeug
+2071	die Feuerwehr
+2072	die Figur
+2073	finanzieren
+2074	finanziell
+2075	der Finger
+2076	flach
+2077	die Fläche
+2078	der Fleck
+2079	der Fleischhauer
+2080	flexibel
+2081	fliehen
+2082	die Flucht
+2083	fließen
+2084	fließend
+2085	die Flöte
+2086	die Flüssigkeit
+2087	folgen
+2088	die Folge
+2089	folgend
+2090	fordern
+2091	die Forderung
+2092	fördern
+2093	die Förderung
+2094	die Form
+2095	die Forschung
+2096	die Fortbildung
+2097	der Fortschritt
+2098	fortsetzen
+2099	die Fortsetzung
+2100	das Forum
+2101	der Fotograf
+2102	die Fotografie
+2103	frech
+2104	im Freien
+2105	die Freiheit
+2106	fressen
+2107	die Freude
+2108	die Freundschaft
+2109	der Friede
+2110	frieren
+2111	die Frisur
+2112	die Frist
+2113	fröhlich
+2114	die Frucht
+2115	Früchte
+2116	früher/früher-
+2117	fühlen
+2118	führen
+2119	der Führerausweis
+2120	das Fundbüro
+2121	funktionieren
+2122	fürchten
+2123	der Fußgänger
+2124	die Fußgängerzone
+2125	füttern
+2126	die Galerie
+2127	der Gang
+2128	gar
+2129	garantieren
+2130	die Garantie
+2131	die Garderobe
+2132	das Gas
+2133	das Gasthaus
+2134	die Gaststätte
+2135	das Gebäude
+2136	das Gebäck
+2137	das Gebiet
+2138	das Gebirge
+2139	geboren werden
+2140	gebrauchen
+2141	die Gebrauchsanweisung
+2142	die Gebühr
+2143	die Geburt
+2144	das Gedicht
+2145	die Geduld
+2146	geeignet
+2147	die Gefahr
+2148	sich etwas gefallen lassen
+2149	das Gefängnis
+2150	das Gefühl
+2151	der Gegner
+2152	die Gegend
+2153	der Gegensatz
+2154	der Gegenstand
+2155	das Geheimnis
+2156	geheim
+2157	der Gehsteig (D
+2158	der Geldautomat
+2159	die Gelegenheit
+2160	gelingen
+2161	gelten
+2162	gemeinsam
+2163	die Gemeinschaft
+2164	gemütlich
+2165	genauso
+2166	genehmigen
+2167	die Generation
+2168	genießen
+2169	genügen
+2170	gerecht
+2171	gering
+2172	gern/gerne
+2173	gesamt-/Gesamt-
+2174	geschehen
+2175	geschieden
+2176	das Geschirr
+2177	das Geschlecht
+2178	der Geschmack
+2179	die Geschwindigkeit
+2180	die Geschwindigkeitsbeschränkung
+2181	die Gesellschaft
+2182	das Gesetz
+2183	gespannt
+2184	die Gesundheit
+2185	die Gewalt
+2186	die Gewerkschaft
+2187	der Gewinn
+2188	das Gewissen
+2189	gewöhnen
+2190	die Gewohnheit
+2191	gewohnt
+2192	gewöhnlich
+2193	das Gewürz
+2194	gießen
+2195	das Gift
+2196	giftig
+2197	glatt
+2198	gleichfalls
+2199	gleichberechtigt
+2200	gleichzeitig
+2201	das Gold
+2202	Golf
+2203	der Gott
+2204	die Grafik
+2205	das Gras
+2206	die Gratulation
+2207	gratis
+2208	greifen
+2209	die Grenze
+2210	grillieren
+2211	der Grill
+2212	die Grippe
+2213	gründen
+2214	der Grund
+2215	gründlich
+2216	das Grundstück
+2217	grüßen
+2218	gucken
+2219	die Gymnastik
+2220	das Hackfleisch (D
+2221	der Hafen
+2222	hageln
+2223	halb
+2224	halbtags
+2225	die Hälfte
+2226	das Hallenbad
+2227	halt
+2228	haltbar
+2229	der Hammer
+2230	handeln
+2231	der Handel
+2232	der Händler
+2233	hassen
+2234	häufig
+2235	Haupt-
+2236	der Hauptbahnhof
+2237	der Hausmeister
+2238	die Haut
+2239	heben
+2240	heim
+2241	heimlich
+2242	das Heimweh
+2243	heizen
+2244	der Held
+2245	her/her-
+2246	heraus-
+2247	die Herausforderung
+2248	herein-
+2249	die Herkunft
+2250	der Hersteller
+2251	herunter-
+2252	fahren
+2253	das Herz
+2254	heutig-
+2255	hier/hier-
+2256	hierher
+2257	der Himmel
+2258	runterwerfen
+2259	hinter/hinter-
+2260	hinterlassen
+2261	hinterher
+2262	hinweisen
+2263	der Hinweise
+2264	historisch
+2265	die Hitze
+2266	die Höhe
+2267	hochladen
+2268	höchstens
+2269	der Hof
+2270	der Bauernhof
+2271	die Hoffnung
+2272	höflich
+2273	das Holz
+2274	der Honig
+2275	der Hörer
+2276	hübsch
+2277	der Hügel
+2278	der Humor
+2279	hungrig
+2280	hupen
+2281	der Hut
+2282	die Hütte
+2283	ideal
+2284	illegal
+2285	der Imbiss
+2286	der Import
+2287	indem
+2288	individuell
+2289	die Industrie
+2290	die Infektion
+2291	informieren
+2292	der Ingenieur
+2293	der Inhalt
+2294	inklusive
+2295	innen
+2296	inner-
+2297	innerhalb
+2298	das Inserat
+2299	insgesamt
+2300	installieren
+2301	das Institut
+2302	integrieren
+2303	die Integration
+2304	die Intelligenz
+2305	intensiv
+2306	der Intensivkurs
+2307	interessieren
+2308	interessiert
+2309	interkulturell
+2310	inzwischen
+2311	irgend-
+2312	irgendwann
+2313	sich irren
+2314	je
+2315	je … desto …
+2316	jederzeit
+2317	jedes Mal
+2318	jedoch
+2319	jemals
+2320	jeweils
+2321	die Jugend
+2322	das Kabel
+2323	die Kabine
+2324	das Kaffeehaus
+2325	der Kakao
+2326	die Kälte
+2327	kämpfen
+2328	der Kampf
+2329	der Kanal
+2330	der Kandidat
+2331	die Kanne
+2332	die Kantine
+2333	das Kapitel
+2334	kaputtgehen
+2335	kaputtmachen
+2336	die Karriere
+2337	die Chipkarte
+2338	der Käse
+2339	die Kassette
+2340	der Kasten
+2341	der Katalog
+2342	die Katastrophe
+2343	kaufen
+2344	der Kauf
+2345	der Käufer
+2346	kaum
+2347	das Kennzeichen
+2348	die Kerze
+2349	die Kindheit
+2350	die Kiste
+2351	das Kissen
+2352	klagen
+2353	klären
+2354	die Klassenarbeit
+2355	kleben
+2356	klettern
+2357	klicken
+2358	der Klick
+2359	das Klima
+2360	die Klimaanlage
+2361	klingeln
+2362	die Klingel
+2363	klingen
+2364	die Klinik
+2365	klopfen
+2366	der Kloß
+2367	knapp
+2368	die Kneipe
+2369	das Knie
+2370	der Knochen
+2371	der Knödel
+2372	der Knopf
+2373	die Kommunikation
+2374	komplett
+2375	kompliziert
+2376	der Kompromiss
+2377	die Konferenz
+2378	die Konfitüre
+2379	der Konflikt
+2380	der König
+2381	die Konkurrenz
+2382	das Konsulat
+2383	konsumieren
+2384	der Konsum
+2385	das Girokonto
+2386	die Kontrolle
+2387	sich konzentrieren
+2388	kopieren
+2389	die Kopie
+2390	der Kopierer
+2391	körperlich
+2392	korrekt
+2393	korrigieren
+2394	die Kosten
+2395	das Kostüm
+2396	die Kraft
+2397	kräftig
+2398	das Kraftfahrzeug
+2399	das Kraftwerk
+2400	der Kranke
+2401	die Krankenschwester
+2402	der Krankenwagen
+2403	kreativ
+2404	der Kreis
+2405	das Kreuz
+2406	der Krieg
+2407	Kriminal-
+2408	die Krise
+2409	kritisieren
+2410	die Kritik
+2411	kritisch
+2412	der Kuli
+2413	die Kündigung
+2414	künstlich
+2415	der Kunststoff
+2416	der Kursleiter
+2417	die Kurve
+2418	kürzlich
+2419	küssen
+2420	der Kuss
+2421	die Küste
+2422	lächeln
+2423	die Lage
+2424	das Lager
+2425	die Landwirtschaft
+2426	landen
+2427	die Landung
+2428	die Länge
+2429	längst
+2430	sich langweilen
+2431	die Langeweile
+2432	der Lärm
+2433	der Laster
+2434	das Laufwerk
+2435	die Laune
+2436	der Lautsprecher
+2437	lecker
+2438	der Lebenslauf
+2439	das Leder
+2440	die Lehre
+2441	die Lehrstelle
+2442	der Lehrling
+2443	leid tun
+2444	leiden
+2445	leisten
+2446	die Leistung
+2447	leiten
+2448	der Leiter
+2449	die Leitung
+2450	der Lerner
+2451	der Leser
+2452	das Lexikon
+2453	die Liebe
+2454	die Lieferung
+2455	der Lift
+2456	die Limonade
+2457	die Linie
+2458	die Lippe
+2459	die Liste
+2460	die Literatur
+2461	loben
+2462	das Loch
+2463	locker
+2464	der Lohn
+2465	sich lohnen
+2466	los/los-
+2467	losfahren
+2468	löschen
+2469	die Luft
+2470	die Lust
+2471	das Magazin
+2472	mager
+2473	die Mahlzeit
+2474	die Mahnung
+2475	der Maler
+2476	der Mangel
+2477	die Mappe
+2478	das Märchen
+2479	die Margarine
+2480	die Marille
+2481	die Marke
+2482	die Marmelade
+2483	das Material
+2484	die Matura (A
+2485	die Mauer
+2486	maximal
+2487	die Medien
+2488	die Medizin
+2489	das Mehl
+2490	mehr
+2491	mehrere
+2492	die Mehrheit
+2493	die Mehrwertsteuer
+2494	meinetwegen
+2495	der Meister
+2496	melden
+2497	die Meldung
+2498	die Mensa
+2499	menschlich
+2500	das Menü
+2501	merkwürdig
+2502	messen
+2503	das Metall
+2504	die Methode
+2505	die Metropole
+2506	der Metzger
+2507	der Mieter
+2508	der Migrant
+2509	die Migration
+2510	mild
+2511	die Minderheit
+2512	das Mineralwasser
+2513	minimal
+2514	mischen
+2515	miss-
+2516	miteinander
+2517	das Mitglied
+2518	mitteilen
+2519	mitten
+2520	mittler-
+2521	mittlerweile
+2522	das Möbel
+2523	möbliert
+2524	mobil/mobil-
+2525	die Mobilbox
+2526	die Mobilität
+2527	das Modell
+2528	die Möglichkeit
+2529	möglichst
+2530	der Mond
+2531	der Monitor
+2532	das Motorrad
+2533	die Mühe
+2534	der Müll
+2535	die Müllabfuhr
+2536	die Mülltonne
+2537	mündlich
+2538	die Münze
+2539	musikalisch
+2540	der Muskel
+2541	das Müesli/Müsli
+2542	der Mut
+2543	mutig
+2544	nachdem
+2545	nachdenken
+2546	die Nachfrage
+2547	nachher
+2548	die Nachhilfe
+2549	nachschlagen
+2550	die Nachspeise
+2551	der Nachteil
+2552	der Nachwuchs
+2553	die Nadel
+2554	der Nagel
+2555	nah
+2556	die Nähe
+2557	nähen
+2558	sich nähern
+2559	das Nahrungsmittel
+2560	nämlich
+2561	die Nase
+2562	national/national-
+2563	die Natur
+2564	der Nebel
+2565	nebenbei
+2566	der Neffe
+2567	negativ
+2568	der Nerv
+2569	das Netz
+2570	das Netzwerk
+2571	die Neuigkeit
+2572	neugierig
+2573	neulich
+2574	die Nichte
+2575	der Nichtraucher
+2576	niedrig
+2577	nirgendwo
+2578	noch mal
+2579	nochmals
+2580	normalerweise
+2581	Not-
+2582	der Notausgang
+2583	der Notfall
+2584	der Notruf
+2585	nötig
+2586	nun
+2587	nutzen
+2588	nützen
+2589	ob
+2590	ober-
+2591	das Obst (D
+2592	obwohl
+2593	der Ofen
+2594	öffentlich
+2595	die Öffentlichkeit
+2596	veröffentlichen
+2597	offenbar
+2598	offiziell
+2599	oft/öfter
+2600	Öko-
+2601	die Oper
+2602	operieren
+2603	die Operation
+2604	das Opfer
+2605	optimistisch
+2606	das Orchester
+2607	ordentlich
+2608	die Ordination
+2609	ordnen
+2610	der Ordner
+2611	die Organisation
+2612	das Original
+2613	der Vorort
+2614	der Wohnort
+2615	der Ozean
+2616	paar
+2617	die Panne
+2618	der Paradeiser
+2619	parallel
+2620	parkieren
+2621	der Passagier
+2622	passiv
+2623	der Patient
+2624	pauschal
+2625	das Pech
+2626	peinlich
+2627	die Pension
+2628	pensioniert werden
+2629	der Pensionist
+2630	per
+2631	perfekt
+2632	der Perron
+2633	persönlich
+2634	die Personalien
+2635	das Personal
+2636	die Pfanne
+2637	der Pfeffer
+2638	pflanzen
+2639	das Pflaster
+2640	die Pflaume
+2641	pflegen
+2642	der Pfleger
+2643	die Pflicht
+2644	die Phantasie/Fantasie
+2645	das Picknick
+2646	der Pilz
+2647	die Planung
+2648	das Plastik
+2649	die Politik
+2650	der Politiker
+2651	politisch
+2652	populär
+2653	positiv
+2654	der Pöstler
+2655	der Praktikant
+2656	präsentieren
+2657	die Presse
+2658	prima
+2659	produzieren
+2660	die Produktion
+2661	der Professor
+2662	der Profi
+2663	der Profisportler
+2664	Prost
+2665	protestieren
+2666	der Protest
+2667	der Prozess
+2668	das Publikum
+2669	die Puppe
+2670	die Qualifikation
+2671	das Quartier
+2672	quer
+2673	die Quittung
+2674	das Quiz
+2675	der Rabatt
+2676	das Rad
+2677	der Radfahrer
+2678	der Rahm
+2679	der Rand
+2680	der Rasen
+2681	rasieren
+2682	der Rat
+2683	Ratschlag
+2684	der Raucher
+2685	rauf/rauf-
+2686	raus/raus-
+2687	reagieren
+2688	die Reaktion
+2689	realisieren
+2690	die Realität
+2691	realistisch
+2692	die Recherche
+2693	der Rechner
+2694	das Recht
+2695	rechtlich
+2696	rechtzeitig
+2697	die Rede
+2698	reduzieren
+2699	das Referat
+2700	die Reform
+2701	das Regal
+2702	die Regel
+2703	regelmäßig
+2704	regeln
+2705	die Region
+2706	regional
+2707	reichen
+2708	reif
+2709	die Reihenfolge
+2710	rein
+2711	reinigen
+2712	die Reklame
+2713	der Rekord
+2714	relativ
+2715	rennen
+2716	die Rente
+2717	die Reportage
+2718	der Reporter
+2719	die Reservierung
+2720	der Respekt
+2721	retten
+2722	die Rezeption/Reception
+2723	der Richter
+2724	die Richtung
+2725	riesig
+2726	das Risiko
+2727	roh
+2728	das Rohr
+2729	die Rolle
+2730	der Roman
+2731	rück-
+2732	die Rückkehr
+2733	rückwärts
+2734	die Rücksicht
+2735	die Rufnummer
+2736	die Ruhe
+2737	die Runde
+2738	die Rundfahrt
+2739	der Saal
+2740	der Sack
+2741	die Saison
+2742	die Salbe
+2743	der Salon
+2744	salzig
+2745	sämtliche
+2746	der Sand
+2747	satt
+2748	die Schachtel
+2749	schaden
+2750	schalten
+2751	der Schatten
+2752	schätzen
+2753	schauen
+2754	zuschauen
+2755	das Schaufenster
+2756	die Scheibe
+2757	sich scheiden lassen
+2758	die Scheidung
+2759	der Schein
+2760	schieben
+2761	schief
+2762	schießen
+2763	der Schlaf
+2764	schlagen
+2765	schlank
+2766	schließlich
+2767	schmal
+2768	das Schmerzmittel
+2769	schminken
+2770	der Schmuck
+2771	der Schmutz
+2772	verschmutzen
+2773	der Schnee
+2774	schneiden
+2775	das Schnitzel
+2776	der Schnupfen
+2777	die Schokolade
+2778	der Schreck
+2779	aufschreiben
+2780	schreien
+2781	die Schrift
+2782	der Schriftsteller
+2783	der Schritt
+2784	die Schuld
+2785	die Schulden
+2786	schuldig
+2787	die Schularbeit
+2788	die Schulter
+2789	die Schüssel
+2790	schütteln
+2791	schützen
+2792	der Schutz
+2793	das Schwammerl
+2794	die Schwangerschaft
+2795	schweigen
+2796	Schwieger-
+2797	die Schwierigkeit
+2798	schwitzen
+2799	die Nord-/Ostsee
+2800	seitdem
+2801	der Sekretär
+2802	selb-
+2803	selber
+2804	selbstverständlich
+2805	selten
+2806	seltsam
+2807	das Semester
+2808	das Seminar
+2809	senden
+2810	der Sender
+2811	die Senioren
+2812	senkrecht
+2813	die Serie
+2814	der Service
+2815	der Serviceangestellte
+2816	der Sessel
+2817	setzen
+2818	die Sicherheit
+2819	sichern
+2820	sichtbar
+2821	siegen
+2822	der Sieg
+2823	der Sieger
+2824	siezen
+2825	sinken
+2826	der Sinn
+2827	sinnlos
+2828	sinnvoll
+2829	der Sitz
+2830	der Ski/Schi
+2831	sobald
+2832	die Socke
+2833	sodass
+2834	sogenannt-
+2835	solange
+2836	solch-
+2837	Sonder-
+2838	sondern
+2839	sorgen
+2840	die Sorge
+2841	die Soße/Sauce
+2842	das Souvenir
+2843	soviel
+2844	so viel/so viel wie
+2845	sowieso
+2846	sowohl … als auch
+2847	sozial
+2848	der Sozialarbeiter
+2849	sparsam
+2850	der Spaß
+2851	spätestens
+2852	Speise-/-speise
+2853	der Speisewagen
+2854	Spezial-
+2855	der Spezialist
+2856	speziell
+2857	der Spiegel
+2858	der Spieler
+2859	der Spielplatz
+2860	das Spielzeug
+2861	spitz
+2862	die Sportart
+2863	der Sportler
+2864	die Fremdsprache
+2865	die Muttersprache
+2866	die Zweitsprache
+2867	springen
+2868	die Spritze
+2869	spülen
+2870	die Spur
+2871	spüren
+2872	das Stadion
+2873	städtisch
+2874	stammen
+2875	ständig
+2876	der Standpunkt
+2877	starten
+2878	der Start
+2879	die Station
+2880	die Statistik
+2881	statistisch
+2882	statt
+2883	der Stau
+2884	der Staub
+2885	staubsaugen
+2886	stechen
+2887	stecken
+2888	die Steckdose
+2889	der Stecker
+2890	stehen bleiben
+2891	stehlen
+2892	steigen
+2893	steil
+2894	der Stein
+2895	der Stempel
+2896	der Stern
+2897	die Steuer
+2898	der Steward
+2899	der Stil
+2900	stilistisch
+2901	still
+2902	die Stiege
+2903	das Stiegenhaus
+2904	die Stimme
+2905	stimmen
+2906	die Stimmung
+2907	stinken
+2908	der Stoff
+2909	stolz
+2910	stoppen
+2911	die Störung
+2912	stoßen
+2913	die Strafe
+2914	strafbar
+2915	der Strafzettel
+2916	die Strecke
+2917	streiken
+2918	der Streik
+2919	streiten
+2920	der Streit
+2921	der Stress
+2922	der Strom
+2923	der Strumpf
+2924	das Stück/-stück
+2925	die Studie
+2926	der Studierende
+2927	das Studio
+2928	die Stufe
+2929	stumm
+2930	der Sturm
+2931	stürzen
+2932	die Sucht
+2933	süchtig
+2934	das Suchtmittel
+2935	die Summe
+2936	das Symbol
+2937	das System
+2938	die Szene
+2939	die Tabelle
+2940	der Tagesablauf
+2941	das Tal
+2942	das Talent
+2943	tanken
+2944	die Tankstelle
+2945	der Tanz
+2946	das Taschengeld
+2947	das Taschentuch
+2948	die Tastatur
+2949	die Taste
+2950	die Tat
+2951	der Täter
+2952	die Tätigkeit
+2953	die Tatsache
+2954	tatsächlich
+2955	taub
+2956	tauchen
+2957	tauschen
+2958	die Technik
+2959	technisch
+2960	die Technologie
+2961	Tee ziehen lassen
+2962	die Teilzeit
+2963	die Teilnahme
+2964	der Teilnehmer
+2965	die Temperatur
+2966	das Tempo
+2967	das Tennis
+2968	der Teppich
+2969	der Terminkalender
+2970	die Terrasse
+2971	testen
+2972	theoretisch
+2973	die Theorie
+2974	die Therapie
+2975	das Haustier
+2976	der Tierpark
+2977	tippen
+2978	der Tod
+2979	tödlich
+2980	tolerant
+2981	das Tor
+2982	der Tote
+2983	der Tourismus
+2984	die Tradition
+2985	traditionell
+2986	der Trainer
+2987	das Tram
+2988	die Träne
+2989	transportieren
+2990	der Transport
+2991	treffen
+2992	der Treffpunkt
+2993	treiben
+2994	trennen
+2995	die Trennung
+2996	getrennt leben
+2997	das Treppenhaus
+2998	treten
+2999	treu
+3000	das Trinkgeld
+3001	trocknen
+3002	die Tropfen
+3003	das Trottoir
+3004	trotz
+3005	trotzdem
+3006	das Tuch
+3007	der Turm
+3008	die Tüte
+3009	der Typ
+3010	die Übung
+3011	überfahren
+3012	überhaupt
+3013	überholen
+3014	überlegen
+3015	die Übernachtung
+3016	übernehmen
+3017	überprüfen
+3018	überqueren
+3019	überraschen
+3020	die Überraschung
+3021	überreden
+3022	die Überschrift
+3023	der Übersetzer
+3024	die Überstunde
+3025	die Überweisung
+3026	überzeugen
+3027	die Überzeugung
+3028	üblich
+3029	übrig
+3030	übrigens
+3031	das Ufer
+3032	umarmen
+3033	um … zu
+3034	umdrehen
+3035	die Umfrage
+3036	die Umgebung
+3037	umgehen
+3038	umgekehrt
+3039	die Umleitung
+3040	umso
+3041	umsonst
+3042	umtauschen
+3043	der Umtausch
+3044	die Umwelt
+3045	der Umweltschutz
+3046	die Umweltverschmutzung
+3047	un-
+3048	ungefähr
+3049	ungewöhnlich
+3050	unglaublich
+3051	das Unglück
+3052	unheimlich
+3053	die Uniform
+3054	unterbrechen
+3055	unterhalten
+3056	die Unterhaltung
+3057	die Unterlagen
+3058	unterlassen
+3059	der Unternehmer
+3060	unterrichten
+3061	untersagt
+3062	unterscheiden
+3063	unterschiedlich
+3064	unterstreichen
+3065	unterstützen
+3066	die Unterstützung
+3067	die Untersuchung
+3068	unterwegs
+3069	die Urkunde
+3070	die Ursache
+3071	verursachen
+3072	ursprünglich
+3073	das Urteil
+3074	die Vase
+3075	vegetarisch
+3076	verabreden
+3077	verabredet
+3078	die Verabredung
+3079	verabschieden
+3080	der Abschied
+3081	verändern
+3082	verantwortlich
+3083	die Verantwortung
+3084	verbessern
+3085	das Verbot
+3086	verbinden
+3087	die Verbindung
+3088	verbrauchen
+3089	der Verbrecher
+3090	verbrennen
+3091	verbringen
+3092	der Verdacht
+3093	verdächtig
+3094	die Vergangenheit
+3095	vergeblich
+3096	der Vergleich
+3097	sich vergnügen
+3098	das Vergnügen
+3099	vergnügt
+3100	vergrößern
+3101	verhaften
+3102	sich verhalten
+3103	das Verhalten
+3104	das Verhältnis
+3105	verhindern
+3106	der Verkehr
+3107	der Verlag
+3108	verlangen
+3109	verlängern
+3110	verlassen
+3111	sich verlaufen
+3112	verletzen
+3113	die Verletzung
+3114	sich verlieben
+3115	verliebt
+3116	der Verlierer
+3117	der Verlust
+3118	vermeiden
+3119	die Vermietung
+3120	vermissen
+3121	die Vermittlung
+3122	vermuten
+3123	vermutlich
+3124	vernünftig
+3125	verpacken
+3126	verpflegen
+3127	verpflichtet
+3128	verraten
+3129	verrückt
+3130	die Versammlung
+3131	versäumen
+3132	verschreiben
+3133	verschwinden
+3134	versichern
+3135	die Versichertenkarte
+3136	die Versicherung
+3137	versprechen
+3138	verständlich
+3139	das Verständnis
+3140	verstecken
+3141	verstehen
+3142	der Versuch
+3143	verteilen
+3144	vertrauen
+3145	vertreten
+3146	der Vertreter
+3147	die Vertretung
+3148	verurteilen
+3149	die Verwaltung
+3150	verwandt
+3151	verwechseln
+3152	verwenden
+3153	verzeihen
+3154	Verzeihung
+3155	verzichten
+3156	das Video
+3157	viel/viele
+3158	das Viertel
+3159	virtuell
+3160	der Virus
+3161	die Visitenkarte
+3162	das Visum
+3163	das Vitamin
+3164	die Vollzeit
+3165	völlig
+3166	voneinander
+3167	vor allem
+3168	voraus
+3169	die Voraussetzung
+3170	voraussichtlich
+3171	vorbei/vorbei-
+3172	vorbereiten
+3173	die Vorbereitung
+3174	vorder-
+3175	die Vorfahrt
+3176	vorhaben
+3177	vorhin
+3178	vorkommen
+3179	vorläufig
+3180	vorlesen
+3181	vorn
+3182	vorschlagen
+3183	die Vorschrift
+3184	die Vorstellung
+3185	das Vorstellungsgespräch
+3186	der Vorteil
+3187	der Vortrag
+3188	der Vorwurf
+3189	waagerecht
+3190	wachsen
+3191	die Wahl
+3192	wahnsinnig
+3193	die Wahrheit
+3194	während
+3195	die Wand
+3196	die Wanderung
+3197	die Ware
+3198	die Wärme
+3199	warnen
+3200	das Waschmittel
+3201	der Wecker
+3202	weder … noch
+3203	weg/weg-
+3204	sich weigern
+3205	weiter/weiter-
+3206	die Weiterbildung
+3207	weltweit
+3208	wenden
+3209	wenig/wenige
+3210	die Werbung
+3211	werfen
+3212	das Werk
+3213	das Werkzeug
+3214	wert
+3215	wertlos
+3216	wertvoll
+3217	weshalb
+3218	wetten
+3219	der Wetterbericht
+3220	die Wettervorhersage
+3221	widersprechen
+3222	wieder/wieder-
+3223	die Wiederholung
+3224	wiegen
+3225	wild
+3226	die Wiese
+3227	wieso
+3228	wie viel
+3229	winken
+3230	wirken
+3231	die Wirkung
+3232	die Wirklichkeit
+3233	der Wirt
+3234	die Wirtschaft
+3235	die Wissenschaft
+3236	der Wissenschaftler
+3237	wohl
+3238	der Wohnsitz
+3239	die Wolle
+3240	worüber
+3241	worum
+3242	die Wunde
+3243	das Wunder
+3244	wunderschön
+3245	sich wundern
+3246	wünschen
+3247	wütend
+3248	die Anzahl
+3249	zahlreich
+3250	die Zahlung
+3251	zählen
+3252	die Zahncreme/-pasta
+3253	die Zange
+3254	das Zeichen
+3255	das Verkehrszeichen
+3256	die Zeichnung
+3257	die Zeile
+3258	der Zeitpunkt
+3259	zelten
+3260	zentral
+3261	zerstören
+3262	das Zertifikat
+3263	das Zeug/-zeug
+3264	der Zeuge
+3265	ziehen
+3266	ziemlich
+3267	die Zinsen
+3268	die Zone
+3269	zubereiten
+3270	der Zucker
+3271	der Zufall
+3272	zufällig
+3273	der Zugang
+3274	zugänglich
+3275	zugehen
+3276	das Zuhause
+3277	der Zuhörer
+3278	die Zukunft
+3279	zukünftig
+3280	zumindest
+3281	zunächst
+3282	zunehmen
+3283	zurechtkommen
+3284	zurück/zurück-
+3285	zusagen
+3286	zusammen/zusammen-
+3287	die Zusammenarbeit
+3288	zusammenfassen
+3289	der Zusammenhang
+3290	zusätzlich
+3291	der Zuschauer
+3292	der Zuschlag
+3293	der Zustand
+3294	zuständig
+3295	zustimmen
+3296	die Zustimmung
+3297	die Zutaten
+3298	zuverlässig
+3299	zwar
+3300	der Zweck
+3301	zweifeln
+3302	der Zweifel
+3303	die Zwiebel
+3304	zwingen

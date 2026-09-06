@@ -7,6 +7,7 @@
 #include "bsp_pins.h"
 #include "fonts/gl_fonts.h"
 #include "gut_lernen/gl_data.h"
+#include "gut_lernen/gl_audio.h"
 
 #define UI_BG        0x0E1620
 #define UI_FG        0xFFFFFF
@@ -196,7 +197,8 @@ void app_ui_show_front(const gl_word_t *w, uint16_t idx)
 {
     lv_label_set_text(s_badge_txt, level_name(idx));
     lv_label_set_text(s_title, w->german);
-    lv_label_set_text(s_hint, "按 OK 翻面");
+    lv_label_set_text(s_hint,
+        gl_audio_available(idx) ? "上键 发音 | OK 翻面" : "按 OK 翻面");
     lv_label_set_text(s_foot, "长按 OK 重置进度");
     set_view_front();
 }

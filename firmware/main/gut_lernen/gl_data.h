@@ -16,6 +16,5 @@ extern const uint16_t GL_WORD_TOTAL;
 
 /* Flat index helpers: 0 .. A1-1 | A1 .. A1+A2-1 | ... */
 #define GL_LEVEL_A1_FIRST (0u)
-#define GL_LEVEL_A2_FIRST (50u)
-#define GL_LEVEL_B1_FIRST (86u)
-
+#define GL_LEVEL_A2_FIRST (726u)
+#define GL_LEVEL_B1_FIRST (1449u)

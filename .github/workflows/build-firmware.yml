@@ -19,6 +19,16 @@ jobs:
     steps:
       - uses: actions/checkout@d23441a48e516b6c34aea4fa41551a30e30af803 # v6
 
+      - name: Synthesize word audio (Piper TTS)
+        run: |
+          pip install piper-tts
+          mkdir -p voices
+          curl -sL --retry 3 -o voices/de.onnx \
+            https://huggingface.co/rhasspy/piper-voices/resolve/main/de/de_DE/thorsten/high/de_DE-thorsten-high.onnx
+          curl -sL --retry 3 -o voices/de.onnx.json \
+            https://huggingface.co/rhasspy/piper-voices/resolve/main/de/de_DE/thorsten/high/de_DE-thorsten-high.onnx.json
+          python3 firmware/tools/gen_audio.py --voice voices/de.onnx
+
       - name: Build firmware (ESP-IDF 5.5.3 / esp32c3)
         uses: espressif/esp-idf-ci-action@9d38657f3d789ca759b2b37aaf5ceffbc42c4f0d # v1
         with:

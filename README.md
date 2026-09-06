@@ -4,7 +4,8 @@ Gut Lernen（德语「好好学」）是一个运行在 [FoloToy AI Passport](ht
 
 ## 它能做什么
 
-- **随身背单词**：把 AI Passport 变成一台德语单词卡设备，按按键翻看德语单词、音标和中文释义。
+- **随身背单词**：把 AI Passport 变成一台德语单词卡设备，正面按上键听发音、按 OK 翻面，背面查看中文释义与例句。
+- **离线单词发音**：正面按上键播放单词的德语发音（Piper 神经网络音色，构建时自动合成并固化进固件，无需网络）。
 - **科学的复习节奏**：采用 SM-2 遗忘曲线算法（ease / interval / lapses），熟悉的词隔更久再出现，生疏的词尽快重复。
 - **每日目标**：可配置每天的新词数量，应用自动搭配「新词 + 到期复习」，学习量记录到每一天。
 - **分级词库**：内置歌德学院 A1 / A2 / B1 分级词表，开箱即用。
@@ -21,7 +22,7 @@ shared/      前后端共享类型定义
 
 ## 构建固件
 
-固件使用 ESP-IDF 5.5.3（target: esp32c3）构建。推送到本仓库的 tag 或手动触发 `Build firmware` workflow（Actions → Build firmware → Run workflow），即可在 GitHub Actions 上编译并产出可直刷的完整镜像 `FoloToy-AI-Passport-full.bin`（Artifact 下载）。
+固件使用 ESP-IDF 5.5.3（target: esp32c3）构建。推送到本仓库的 tag 或手动触发 `Build firmware` workflow（Actions → Build firmware → Run workflow），即可在 GitHub Actions 上编译并产出可直刷的完整镜像 `FoloToy-AI-Passport-full.bin`（Artifact 下载）。构建时会自动用 Piper TTS（Thorsten 德语音色）合成单词发音并打包进固件。
 
 本地构建：
 

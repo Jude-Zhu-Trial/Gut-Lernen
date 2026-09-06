@@ -9,7 +9,7 @@ extern "C" {
 
 /* Pure scheduling core for Gut lernen. No ESP-IDF / LVGL includes here. */
 
-#define GL_MAX_WORDS 128
+#define GL_MAX_WORDS 3400
 #define GL_NEW_PER_DAY_DEFAULT 10
 
 typedef enum {

@@ -15,6 +15,7 @@
 #include "app_ui.h"
 #include "gl_screenshot.h"
 #include "gut_lernen/gl_core.h"
+#include "gut_lernen/gl_audio.h"
 #include "gut_lernen/gl_data.h"
 #include "gut_lernen/gl_store.h"
 
@@ -94,6 +95,7 @@ static void enter_done(bool all_done)
 
 static void start_card(uint16_t idx)
 {
+    gl_audio_stop();
     g_st.current = idx;
     g_state = ST_FRONT;
     app_ui_show_front(word_at(idx), idx);
@@ -163,6 +165,8 @@ static void handle_click(bsp_btn_t btn)
         if (btn == BSP_BTN_OK) {
             g_state = ST_BACK;
             app_ui_show_back(word_at(g_st.current));
+        } else if (btn == BSP_BTN_UP) {
+            gl_audio_play(g_st.current);
         }
         break;
     case ST_BACK:
@@ -219,6 +223,14 @@ static void handle_event(const btn_msg_t *m)
         return;
     }
     if (m->ev != BSP_BTN_CLICK) return;
+
+    /* 幻影按键防线:两次单击间隔小于 200ms 判为噪声丢弃(人手达不到这个速度)。
+       避免 ADC 噪声风暴高频触发全屏重绘 + NVS 写入,拖垮堆/复位循环。 */
+    static TickType_t last_click = 0;
+    TickType_t now = xTaskGetTickCount();
+    if (last_click != 0 && (now - last_click) < pdMS_TO_TICKS(200)) return;
+    last_click = now;
+
     handle_click(m->btn);
 }
 
@@ -237,9 +249,19 @@ void app_main(void)
     }
 
     s_btn_q = xQueueCreate(16, sizeof(btn_msg_t));
-    bsp_button_init(btn_cb, s_btn_q);
+    if (s_btn_q == NULL) {
+        ESP_LOGE(TAG, "button queue create failed");
+        return;
+    }
+    esp_err_t be = bsp_button_init(btn_cb, s_btn_q);
+    if (be != ESP_OK) {
+        ESP_LOGE(TAG, "bsp_button_init failed: %s —— 三键将无响应,接 USB 看日志",
+                 esp_err_to_name(be));
+    }
 
     gl_screenshot_start(bsp_display_panel());
+
+    gl_audio_init();
 
     if (!bsp_lvgl_lock(3000)) {
         ESP_LOGE(TAG, "lvgl lock timeout at init");
