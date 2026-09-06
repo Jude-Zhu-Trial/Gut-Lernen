@@ -35,7 +35,10 @@ FFMPEG_TRIM = (
 def synth_wav(voice, text):
     buf = io.BytesIO()
     with wave.open(buf, "wb") as w:
-        voice.synthesize(text, w)
+        if hasattr(voice, "synthesize_wav"):
+            voice.synthesize_wav(text, w)
+        else:
+            voice.synthesize(text, w)
     return buf.getvalue()
 
 
@@ -98,6 +101,10 @@ def main():
     lines.append(f"\nconst uint32_t GL_AUDIO_COUNT = {len(index)};\n")
     with open(INDEX_OUT, "w", encoding="utf-8") as f:
         f.write("".join(lines))
+
+    if not index:
+        print(f"ERROR: no words synthesized ({len(entries)} entries)")
+        return 1
 
     secs = len(blob) * 8 / 24000
     print(f"done: {len(index)}/{len(entries)} words, "
